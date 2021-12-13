@@ -428,4 +428,5 @@ https://tryhackme.com/room/hello
 <br/>https://tryhackme.com/room/revilcorp
 <br/>https://tryhackme.com/room/sudovulnsbof
 <br/>https://tryhackme.com/room/sudovulnsbypass
+<br/>https://tryhackme.com/room/solar
 <br/>
