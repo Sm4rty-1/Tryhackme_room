@@ -41,6 +41,7 @@ https://tryhackme.com/room/hello
 <br/>https://tryhackme.com/room/searchlightosint
 <br/>https://tryhackme.com/room/webosint
 <br/>https://tryhackme.com/room/sakura
+<br/>https://tryhackme.com/room/redteamrecon
 <br/>
 <br/>
 <h2>Scripting:</h2>
