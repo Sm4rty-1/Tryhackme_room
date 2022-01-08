@@ -383,6 +383,7 @@ https://tryhackme.com/room/hello
 <br/>https://tryhackme.com/room/adana
 <br/>https://tryhackme.com/room/vulnnetdotjar
 <br/>https://tryhackme.com/room/m4tr1xexitdenied
+<br/>https://tryhackme.com/room/shaker
 <br/>
 <br/>
 <h2>Special Events:</h2>
@@ -430,4 +431,5 @@ https://tryhackme.com/room/hello
 <br/>https://tryhackme.com/room/sudovulnsbof
 <br/>https://tryhackme.com/room/sudovulnsbypass
 <br/>https://tryhackme.com/room/solar
+<br/>https://tryhackme.com/room/contiransomwarehgh
 <br/>
