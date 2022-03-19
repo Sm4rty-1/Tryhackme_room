@@ -432,4 +432,5 @@ https://tryhackme.com/room/hello
 <br/>https://tryhackme.com/room/sudovulnsbypass
 <br/>https://tryhackme.com/room/solar
 <br/>https://tryhackme.com/room/contiransomwarehgh
+<br/>https://tryhackme.com/room/dirtypipe
 <br/>
