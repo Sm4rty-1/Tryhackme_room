@@ -12,7 +12,6 @@ https://tryhackme.com/room/hello
 <br/>
 <br/>
 <h2>Basics Rooms:</h2>
-<br/>https://tryhackme.com/room/linux2
 <br/>https://tryhackme.com/room/linuxmodules
 <br/>https://tryhackme.com/room/linuxfundamentalspart1
 <br/>https://tryhackme.com/room/linuxfundamentalspart2
@@ -403,7 +402,6 @@ https://tryhackme.com/room/hello
 <br/>https://tryhackme.com/room/meltdownexplained
 <br/>https://tryhackme.com/room/bpsplunk
 <br/>https://tryhackme.com/room/linuxbackdoors
-<br/>https://tryhackme.com/room/thefindcommand
 <br/>https://tryhackme.com/room/jupyter101
 <br/>https://tryhackme.com/room/geolocatingimages
 <br/>https://tryhackme.com/room/torforbeginners
