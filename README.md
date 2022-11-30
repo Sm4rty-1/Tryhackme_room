@@ -433,4 +433,7 @@ https://tryhackme.com/room/hello
 <br/>https://tryhackme.com/room/solar
 <br/>https://tryhackme.com/room/contiransomwarehgh
 <br/>https://tryhackme.com/room/dirtypipe
-<br/>
+<br/>https://tryhackme.com/room/introtocontainerisation
+<br/>https://tryhackme.com/room/introductoryroomdfirmodule
+<br/>https://tryhackme.com/room/introtoendpointsecurity
+<br/>https://tryhackme.com/room/cyberthreatintel
