@@ -437,3 +437,4 @@ https://tryhackme.com/room/hello
 <br/>https://tryhackme.com/room/introductoryroomdfirmodule
 <br/>https://tryhackme.com/room/introtoendpointsecurity
 <br/>https://tryhackme.com/room/cyberthreatintel
+<br/>https://tryhackme.com/room/mitre
