@@ -202,6 +202,15 @@ https://tryhackme.com/room/hello
 <br/>https://tryhackme.com/room/warzonetwo
 <br/>
 <br/>
+<h2>Cyber Defend:</h2>
+<br/>https://tryhackme.com/jr/jrsecanalystintrouxo
+<br/>https://tryhackme.com/room/introtoendpointsecurity
+<br/>https://tryhackme.com/room/cyberthreatintel
+<br/>https://tryhackme.com/room/mitre
+<br/>https://tryhackme.com/jr/diamondmodelrmuwwg42
+<br/>https://tryhackme.com/jr/pyramidofpainax
+<br/>
+<br/>
 <h2>BufferOverflow:</h2>
 <br/>https://tryhackme.com/room/bufferoverflowprep
 <br/>https://tryhackme.com/room/gatekeeper
@@ -435,5 +444,3 @@ https://tryhackme.com/room/hello
 <br/>https://tryhackme.com/room/dirtypipe
 <br/>https://tryhackme.com/room/introtocontainerisation
 <br/>https://tryhackme.com/room/introductoryroomdfirmodule
-<br/>https://tryhackme.com/room/introtoendpointsecurity
-<br/>https://tryhackme.com/room/cyberthreatintel
