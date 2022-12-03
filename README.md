@@ -397,6 +397,7 @@
 + https://tryhackme.com/room/vulnnetdotjar
 + https://tryhackme.com/room/m4tr1xexitdenied
 + https://tryhackme.com/room/shaker
++ https://tryhackme.com/room/seasurfer
 
 ## Special Events:
 
